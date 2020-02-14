@@ -21,6 +21,8 @@
 
 * [Python安裝 & venv佈署](./Python安裝&venv佈署.md)
 
+* [開始編寫 python 專案](./開始寫_python_專案.md)
+
 * [AI 簡單介紹](./AI簡單介紹.md)
 
 * [AI 的應用](./AI的應用.md)
