@@ -40,4 +40,6 @@
 
 * [貝氏分類器](./sklearn/貝氏分類器.md)
 
+* [多項貝氏分類（應用）](./sklearn/多項貝氏分類.md)
+
 * [隨機森林](./sklearn/randomForest.md)
