@@ -13,3 +13,5 @@ Django 教學
 * [create app](createApp.md)
 
 * [DB migrate](dbMigrate.md)
+
+* [using template](usingTemplate.md)
