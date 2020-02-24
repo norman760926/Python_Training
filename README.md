@@ -42,4 +42,6 @@
 
 * [多項貝氏分類（應用）](./sklearn/多項貝氏分類.md)
 
+* [決策樹Decision Trees](./sklearn/決策樹.md)
+
 * [隨機森林](./sklearn/randomForest.md)
